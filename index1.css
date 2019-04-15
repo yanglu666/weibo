@@ -58,3 +58,185 @@
 .ooo{
   padding-left: 20px;
 }
+.base{
+    width: 920px;
+    height: 300px;
+    overflow: hidden;
+    z-index:1;
+    margin: 0 auto;
+    display: block;
+    position: relative;
+    
+}
+.people{
+    height: 22px;
+    line-height: 20px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    color: #e7e4e4;
+    padding: 0 8px;
+    background-image: url("https://img.t.sinajs.cn/t6/style/images/pagecard/bg_pf_use_num.png?id=1404211047727");
+    background-repeat: repeat;
+    background: rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    right: 46px;
+    top: 11px;
+    z-index: 10;
+}
+.copy{
+    position: absolute;
+    display: block;
+    width: 30px;
+    height: 30px;
+    background: url("https://img.t.sinajs.cn/t6/style/images/pagecard/icon_profile.png?id=201409041250") no-repeat;
+    right: 8px;
+    top: 7px;
+    z-index: 10;
+}
+.touxiang{
+    position: absolute;
+    top: 30px;
+    right: 380px;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    border-radius: 50%;
+    border:5px solid rgba(250, 236, 236, 0.5);
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    z-index: 10;
+}
+.renzheng{
+    position: absolute;
+    bottom: 5px;
+    right:5px;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    box-shadow: 0 0 4px rgba(0,0,0,0.3);
+    vertical-align: -2px;
+    background-image: url("https://img.t.sinajs.cn/t6/style/images/common/steps_gold2.png");
+    background-size: 595px 20px;
+    background-repeat: no-repeat;
+    z-index: 10;
+}
+.name{
+    margin: 0;
+    padding: 0;
+    font-size: 22px;
+    display: inline;
+    color: #fff;
+    text-align: center;
+    text-shadow: 0 0 4px rgba(0,0,0,0.5);
+    position: absolute;
+    top: 150px;
+    right: 380px;
+}
+.iconfont{
+    position: absolute;
+    top: 79px;
+    right: 180px;
+}
+.introduce{
+    position: absolute;
+    top: 180px;
+    right: 380px;
+    margin-top: 4px;
+    font-size: 12px;
+    text-align: center;
+    color: #fff;
+    line-height: 18px;
+    text-shadow: 0 0 4px rgba(0,0,0,0.5);
+}
+.btn{
+    margin-top: 15px;
+}
+.btn1:link{
+text-decoration: none;
+}
+.btn3:link{
+    text-decoration: none;
+    }
+.btn1{
+    position: absolute;
+    bottom: 50px;
+    left: 360px;
+    display: inline-block;
+    height: 34px;
+    width: 104px;
+    line-height: 35px;
+    font-size: 14px;
+    color: #fff;
+    background: linear-gradient(to bottom, #fa7d3c 0%,#f55f10 100%);
+    min-width: 40px;
+    text-align: center;
+    outline: none;
+}
+.btn2{
+    position: absolute;
+    bottom: 50px;
+    left: 470px;
+    height: 34px;
+    width: 24px;
+    color: #fff;
+    background: linear-gradient(to bottom, #fa7d3c 0%,#f55f10 100%);
+}
+.btn3{
+    position: absolute;
+    bottom: 50px;
+    left: 505px;
+    display: inline-block;
+    height: 34px;
+    width: 104px;
+    line-height: 35px;
+    font-size: 14px;
+    color: #fff;
+    background: linear-gradient(to bottom, #696e78 0%,#646973 100%);
+    min-width: 40px;
+    text-align: center;
+    outline: none;
+}
+.btn4{
+    position: absolute;
+    bottom: 50px;
+    left: 620px;
+    height: 34px;
+    width: 34px;
+    color: #fff;
+    background: linear-gradient(to bottom, #696e78 0%,#646973 100%);
+}
+.dropdown ul{
+    position: absolute;
+    z-index: 100;
+   display: none;
+   border: 1px solid #e7e4e4;
+   background-color: white;
+}
+ul,ol,li{
+    list-style:none;
+    margin-left: 20px;
+    padding: 0;
+    width: 470px;
+}
+.dropdown1 ul{
+    position: absolute;
+    bottom: 70px;
+    left: 380px;
+    z-index: 100;
+    width: 180px;
+   display: none;
+   border: 1px solid #e7e4e4;
+   background-color: white;
+}
+.dropdown2 ul{
+    position: absolute;
+    bottom: -20px;
+    right: 120px;
+    z-index: 100;
+    width: 180px;
+  display: none;
+   border: 1px solid #e7e4e4;
+   background-color: white;
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="men-line" unicode="&#58884;" d="M642.133333 531.754667L792.96 682.666667H597.333333V768h341.333334v-341.333333h-85.333334V622.336l-150.912-150.912a320 320 0 1 0-60.330666 60.330667zM448 42.666667a234.666667 234.666667 0 1 1 0 469.333333 234.666667 234.666667 0 0 1 0-469.333333z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
